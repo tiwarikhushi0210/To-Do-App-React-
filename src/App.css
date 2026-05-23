@@ -1,0 +1,14 @@
+
+input{
+  width:100%;
+}
+.items-container{
+  text-align: left;
+}
+.kt-row{
+  margin:10px 5px;
+}
+.kt-button{
+  min-width:80px;
+  text-align: left;
+}
